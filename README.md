@@ -7,10 +7,6 @@
   <img width="400" src="https://github.com/user-attachments/assets/7cbea229-0b73-4a45-98d9-7b9ad8b085b1" alt="xXHotTaco banner"/>
 </p>
 
-<p align="center">
-  <b>🔥 Programador en crecimiento | 🚀 Amante de la tecnología | 🌐 Jugando con código día y noche 🔥</b>
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xXHotTaco&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/xXHotTaco?label=Followers&style=for-the-badge&color=22c55e" alt="Followers" />
