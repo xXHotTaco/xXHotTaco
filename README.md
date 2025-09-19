@@ -1,6 +1,6 @@
 # 🌮 ¡Bienvenido al perfil de xXHotTaco! 🌮  
 
-![Banner](https://chatgpt.com/s/m_68cda96ab58c81919d4d690587b68c43) <!-- Puedes cambiar por tu propio banner -->
+![Banner](<img width="1536" height="537" alt="Bienvenido al perfil de xXHotTaco" src="https://github.com/user-attachments/assets/c3b63499-5c48-431c-8b35-f9734e9144ed" />) <!-- Puedes cambiar por tu propio banner -->
 
 ## 👋 Hola, soy **xXHotTaco**
 Un apasionado por el código, la tecnología y crear soluciones que realmente importan.  
