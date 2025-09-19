@@ -1,4 +1,4 @@
-# 🌮 ¡Bienvenido al perfil de xXHotTaco! 🌮  
+# 🌮 ¡xXHotTaco! 🌮  
 <img width="536" height="537" alt="Bienvenido al perfil de xXHotTaco" src="https://github.com/user-attachments/assets/7cbea229-0b73-4a45-98d9-7b9ad8b085b1" />
 
 ---
