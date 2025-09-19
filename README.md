@@ -31,14 +31,6 @@
 
 ---
 
-## 🎯 Sobre mí
-- 🌮 Apasionado por crear **soluciones web modernas**.  
-- 📈 Buscando siempre crecer como dev y emprendedor.  
-- 🤖 Jugando con **APIs, automatización y AI**.  
-- 🎮 Gamer de corazón (cuando no estoy programando).  
-
----
-
 ## 🌎 Encuéntrame en
 <p align="center">
   <a href="https://github.com/xXHotTaco">
