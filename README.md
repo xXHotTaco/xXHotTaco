@@ -1,4 +1,7 @@
 # 🌮 ¡xXHotTaco! 🌮  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=infinity&width=700&lines=Backend+Developer+%7C+Ecommerce+Specialist;-Building+Scalable+Systems+at+Radial+Llantas;API+Integration+%7C+Automation+Expert" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img width="400" src="https://github.com/user-attachments/assets/7cbea229-0b73-4a45-98d9-7b9ad8b085b1" alt="xXHotTaco banner"/>
@@ -7,10 +10,6 @@
 <p align="center">
   <b>🔥 Programador en crecimiento | 🚀 Amante de la tecnología | 🌐 Jugando con código día y noche 🔥</b>
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=infinity&width=700&lines=Backend+Developer+%7C+Ecommerce+Specialist;-Building+Scalable+Systems+at+Radial+Llantas;API+Integration+%7C+Automation+Expert" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xXHotTaco&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
