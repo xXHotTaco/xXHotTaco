@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riukendozxz00&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Riukendozxz00?label=Followers&style=for-the-badge&color=22c55e" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=xXHotTaco&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/xXHotTaco?label=Followers&style=for-the-badge&color=22c55e" alt="Followers" />
 </div>
 
 ---
