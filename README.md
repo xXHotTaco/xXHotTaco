@@ -1,6 +1,7 @@
 # 🌮 ¡Bienvenido al perfil de xXHotTaco! 🌮  
 
 ![Banner](<img width="1536" height="537" alt="Bienvenido al perfil de xXHotTaco" src="https://github.com/user-attachments/assets/c3b63499-5c48-431c-8b35-f9734e9144ed" />) <!-- Puedes cambiar por tu propio banner -->
+<img width="1536" height="537" alt="Bienvenido al perfil de xXHotTaco" src="https://github.com/user-attachments/assets/7cbea229-0b73-4a45-98d9-7b9ad8b085b1" />
 
 ## 👋 Hola, soy **xXHotTaco**
 Un apasionado por el código, la tecnología y crear soluciones que realmente importan.  
