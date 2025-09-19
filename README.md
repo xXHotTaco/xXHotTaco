@@ -18,4 +18,4 @@ Me gusta aprender, construir y compartir proyectos que mezclan **creatividad** c
 ## 📊 GitHub Stats
 ![xXHotTaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXHotTaco&show_icons=true&theme=radical)  
 
-⭐️ _Si te gustan mis proyectos, no olvides darles una estrella_ ⭐️  
+## ⭐️ _Si te gustan mis proyectos, no olvides darles una estrella_ ⭐️  
