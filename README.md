@@ -26,10 +26,10 @@
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXHotTaco&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-</p>
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xXHotTaco&theme=radical&bg_color=1a1b27&color=6366f1&line=ef4444&point=22c55e&area=true&hide_border=false" alt="Contribution Graph" />
+</div>
 
 ---
 
