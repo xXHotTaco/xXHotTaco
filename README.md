@@ -19,7 +19,6 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xXHotTaco&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXHotTaco&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </p>
 
