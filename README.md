@@ -14,5 +14,6 @@ Me gusta aprender, construir y compartir proyectos que mezclan **creatividad** c
 - 📦 **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 - ☁️ **DevOps / Otros:** Docker, Git, Linux  
 
+---
 
 ## ⭐️ _Si te gustan mis proyectos, no olvides darles una estrella_ ⭐️  
