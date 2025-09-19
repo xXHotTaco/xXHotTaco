@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🌮 ¡Bienvenido al perfil de xXHotTaco! 🌮  
 
-<!--
-**xXHotTaco/xXHotTaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.imgur.com/yXq9X5F.png) <!-- Puedes cambiar por tu propio banner -->
 
-Here are some ideas to get you started:
+## 👋 Hola, soy **xXHotTaco**
+Un apasionado por el código, la tecnología y crear soluciones que realmente importan.  
+Me gusta aprender, construir y compartir proyectos que mezclan **creatividad** con **programación**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+- ⚡ **Lenguajes:** JavaScript, PHP (Laravel), Python  
+- 🛠️ **Frameworks:** Laravel, Node.js, Express  
+- 🌐 **Frontend:** React, TailwindCSS  
+- 📦 **Bases de datos:** MySQL, PostgreSQL, MongoDB  
+- ☁️ **DevOps / Otros:** Docker, Git, Linux  
+
+---
+
+## 📌 Proyectos destacados
+🔹 [**Landing Pages Creativas**](#) – Ayudando a empresas a crecer con sitios web modernos.  
+🔹 [**API Server Monitor**](#) – API para obtener datos de uso de servidor (CPU, RAM, Red).  
+🔹 [**Shopify Integrator**](#) – Scripts para automatizar productos y variantes en Shopify.  
+
+---
+
+## 📊 GitHub Stats
+![xXHotTaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXHotTaco&show_icons=true&theme=radical)  
+
+---
+
+## 🌎 Encuéntrame en
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter/X](#)  
+- 💻 [Portafolio personal](#)  
+
+---
+
+⭐️ _Si te gustan mis proyectos, no olvides darles una estrella_ ⭐️  
