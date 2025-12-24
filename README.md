@@ -6,11 +6,8 @@
       <a href="https://github.com/xXHotTaco" target="_blank" rel="noreferrer">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/carlos-arturo-lopez-gutierrez-08a408338/" target="_blank" rel="noreferrer">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-        <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
       </a>
     </div>
     <div style="margin-top:14px;">
