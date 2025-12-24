@@ -63,11 +63,6 @@ font-size:14px;line-height:1.7;color:rgba(255,255,255,.92);">
 <span style="color:#22c55e;">FOCUS</span>=<span style="color:#a5b4fc;">"Scalable APIs • Ecommerce integrations • Internal tools"</span>
 <span style="color:#22c55e;">LEARNING</span>=<span style="color:#a5b4fc;">"System design • Observability • Performance"</span>
 <span style="color:#22c55e;">MOTTO</span>=<span style="color:#a5b4fc;">"Ship fast, scale smarter."</span>
-
-<span style="color:rgba(255,255,255,.65);"># Links</span>
-<span style="color:#22c55e;">GITHUB</span>=<span style="color:#a5b4fc;">"https://github.com/xXHotTaco"</span>
-<span style="color:#22c55e;">LINKEDIN</span>=<span style="color:#a5b4fc;">"https://linkedin.com/"</span>
-<span style="color:#22c55e;">X</span>=<span style="color:#a5b4fc;">"https://twitter.com/"</span>
       </pre>
       <!-- Mini badges inside terminal -->
       <div style="margin-top:16px;display:flex;flex-wrap:wrap;gap:10px;">
