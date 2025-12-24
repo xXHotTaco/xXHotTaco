@@ -93,9 +93,4 @@ font-size:14px;line-height:1.7;color:rgba(255,255,255,.92);">
 
   <br/>
 
-  <!-- Footer -->
-  <div style="width:100%;max-width:980px;border-radius:18px;padding:14px;background:rgba(17,24,39,.55);border:1px solid rgba(255,255,255,.12);color:rgba(255,255,255,.70);font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:12px;">
-    ⭐️ Si te gustan mis proyectos, deja una estrella — <b style="color:#a5b4fc;">xXHotTaco</b> 🌮
-  </div>
-
 </div>
