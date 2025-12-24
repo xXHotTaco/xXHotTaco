@@ -37,9 +37,11 @@
 font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;
 font-size:14px;line-height:1.7;color:rgba(255,255,255,.92);">
 
-<span style="color:rgba(255,255,255,.65);"># =========================================
+<span style="color:rgba(255,255,255,.65);">
+# =========================================
 # 🌮 GitHub Profile .env — xXHotTaco
-# =========================================</span>
+# =========================================
+</span>
 
 <span style="color:#22c55e;">PROFILE_NAME</span>=<span style="color:#a5b4fc;">"Carlos López"</span>
 <span style="color:#22c55e;">PROFILE_HANDLE</span>=<span style="color:#a5b4fc;">"@xXHotTaco"</span>
