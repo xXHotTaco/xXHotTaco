@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=carlos@radial:~$;whoami;Backend+Developer;API+Integration+%7C+Automation;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=carlos@lopez:~$;whoami;Backend+Developer;API+Integration+%7C+Automation;Building+Scalable+Systems" />
 
 </div>
 
 ---
 
 ```bash
-carlos@radial:~$ whoami
+carlos@lopez:~$ whoami
 Carlos López — Backend Developer
 
-carlos@radial:~$ company
+carlos@lopez:~$ company
 Radial Llantas (Ecommerce)
 
-carlos@radial:~$ location
+carlos@lopez:~$ location
 México
 
-carlos@radial:~$ focus
+carlos@lopez:~$ focus
 Ecommerce • APIs • Automation
 ```
 
 ---
 
 ```bash
-carlos@radial:~$ cat stack.txt
+carlos@lopez:~$ cat stack.txt
 
 Languages:
   - JavaScript
@@ -49,7 +49,7 @@ Tools:
 ---
 
 ```bash
-carlos@radial:~$ ls ./skills
+carlos@lopez:~$ ls ./skills
 
 api-integration/
 backend-architecture/
@@ -60,7 +60,7 @@ system-design/
 ---
 
 ```bash
-carlos@radial:~$ cat current_status.log
+carlos@lopez:~$ cat current_status.log
 
 Building: scalable APIs & ecommerce integrations  
 Learning: system design • performance • observability  
@@ -70,7 +70,7 @@ Focus: internal tools • automation
 ---
 
 ```bash
-carlos@radial:~$ cat philosophy.txt
+carlos@lopez:~$ cat philosophy.txt
 "Ship fast, scale smarter."
 ```
 
@@ -87,7 +87,7 @@ carlos@radial:~$ cat philosophy.txt
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xXHotTaco&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xXHotTaco&theme=radical&bg_color=0b1020&color=6366f1&line=ef4444&point=22c55e&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -95,12 +95,12 @@ carlos@radial:~$ cat philosophy.txt
 <div align="center">
 
 ```bash
-carlos@radial:~$ sudo hire-me
+carlos@lopez:~$ sudo hire-me
 [sudo] password: ********
 
 Access granted ✅
 
-carlos@radial:~$ exit
+carlos@lopez:~$ exit
 ```
 
 </div>
