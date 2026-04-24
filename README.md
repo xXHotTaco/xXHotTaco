@@ -88,6 +88,8 @@ carlos@lopez:~$ cat philosophy.txt
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xXHotTaco&theme=radical&bg_color=0b1020&color=6366f1&line=ef4444&point=22c55e&area=true&hide_border=true" alt="Contribution Graph" />
+  <br/><br/>
+    <img src="https://streak-stats.demolab.com/?user=xXHotTaco&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
