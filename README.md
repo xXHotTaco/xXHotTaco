@@ -5,13 +5,6 @@
 
 <br/><br/>
 
-<!-- SOCIAL -->
-<a href="https://github.com/xXHotTaco">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
-
 <!-- TERMINAL -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=1"/>
 
