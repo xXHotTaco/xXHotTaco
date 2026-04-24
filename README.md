@@ -66,14 +66,6 @@ Building: scalable APIs & ecommerce integrations
 Learning: system design • performance • observability  
 Focus: internal tools • automation  
 ```
-
----
-
-```bash
-carlos@lopez:~$ cat philosophy.txt
-"Ship fast, scale smarter."
-```
-
 ---
 
 ## 🧰 Tech
@@ -92,17 +84,3 @@ carlos@lopez:~$ cat philosophy.txt
     <img src="https://streak-stats.demolab.com/?user=xXHotTaco&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-<div align="center">
-
-```bash
-carlos@lopez:~$ sudo hire-me
-[sudo] password: ********
-
-Access granted ✅
-
-carlos@lopez:~$ exit
-```
-
-</div>
